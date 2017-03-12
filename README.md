@@ -3,8 +3,8 @@
 ##How to use:
 
 - Linux Version:
-  - Download the `maze.cpp` file, then compile and run it: `$ g++ maze.cpp -o maze && ./maze`
-  - Or you can directly download the compiled 'maze' file and run it in terminal: `./maze`
+  - Download the `maze.cpp` file, then compile and run it: `$ g++ -o Maze Maze.cpp && ./Maze`
+  - Or you can directly download the compiled 'maze' file and run it in terminal: `./maze`, possibly you need to change the authority of it to make it executable first: `$ chmod +x Maze`
 
 - Windows Version:
   - Download the directory, choose the version if you use Visual Studio(if you don't know which to choose, then version 2010 may fit better)
