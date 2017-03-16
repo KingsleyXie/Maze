@@ -1,6 +1,6 @@
-#This is a simple maze program with function of generating a maze and search the possible path with Depth-First-Search or Breadth-First-Search algorithm
+# This is a simple maze program with function of generating a maze and search the possible path with Depth-First-Search or Breadth-First-Search algorithm
 
-##How to use:
+## How to use:
 
 - Linux Version:
   - Download the `maze.cpp` file, then compile and run it: `$ g++ -o Maze Maze.cpp && ./Maze`
@@ -12,5 +12,5 @@
   - The same as under Linux Version, you can also directly download the compiled file `maze.exe` and run it, however, it is not guaranteed that there will be no problem when running it. I suggest compiling yourself.
   - I don't use Visual Studio often, except when handing in a VS-recommended homework like this, so I compiled it in Visual Studio 2010 and Visual Studio 2015 separately, because I got problems running VS2010-compiled .exe file under my computer which installed VS2015, and the same problem occured if I swap the mode, if you have got any solution to this or have any ideas, please feel free to tell me:)
 
-##About the Maze:
+## About the Maze:
 //to do:)
